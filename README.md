@@ -1,14 +1,14 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=200&section=header&text=Abdughafur%20Khujzoda&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<h3>💻 Frontend Web Developer</h3>
+<h3>💻 Aspiring Software Engineer</h3>
 
 <p>
-Creating modern, responsive websites with clean code and creative design.
+Passionate about software development, problem-solving, and building innovative digital solutions.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00DFD8&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;UI%2FUX+Design+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00DFD8&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Code" />
 
 </div>
 
@@ -16,35 +16,46 @@ Creating modern, responsive websites with clean code and creative design.
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Abdughafur Khujzoda** — a Frontend Developer passionate about building modern, responsive, and user-friendly websites.
+Hi, I'm **Abdughafur Khujzoda** — an aspiring Software Engineer passionate about technology, programming, and creating useful software solutions.
 
-✨ My focus:
-- 📱 Responsive web design
-- ⚡ Clean and efficient code
-- 🎨 Modern UI/UX interfaces
-- 🚀 Creative digital solutions
+✨ My Goals:
+- 💻 Master software development
+- 🧠 Improve problem-solving skills
+- ⚙️ Build efficient and scalable applications
+- 🚀 Explore Artificial Intelligence and modern technologies
+- 📚 Learn something new every day
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,xd,ps,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🎯 Development Skills
-HTML / CSS ██████████ 100%
+## 🎯 Currently Focused On
 
-JavaScript ██████░░░░ 60%
+- Software Engineering Fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Clean Code & Problem Solving
+- Building Real-World Projects
 
-UI/UX Design ████████░░ 80%
+---
 
-Creative Design █████████░ 90%
+## 📊 GitHub Statistics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abdughafur&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdughafur&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -53,14 +64,8 @@ Creative Design █████████░ 90%
 <div align="center">
 
 <a href="mailto:abdughafur.2010.khujzoda@gmail.com">
-
 <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-
 </a>
-
-<br><br>
-
-💼 Open to frontend projects and collaborations
 
 </div>
 
@@ -68,10 +73,10 @@ Creative Design █████████░ 90%
 
 <div align="center">
 
-⭐ Let's create something amazing together!
+⭐ Learning today, building tomorrow.
 
 <img src="https://komarev.com/ghpvc/?username=Abdughafur&style=flat-square&color=blue" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=100&section=footer" />
