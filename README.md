@@ -47,18 +47,6 @@ Hi, I'm **Abdughafur Khujzoda** — an aspiring Software Engineer passionate abo
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdughafur&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdughafur&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Contact Me
 
 <div align="center">
