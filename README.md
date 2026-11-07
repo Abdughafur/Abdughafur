@@ -1,70 +1,52 @@
- <div align="center">
+## Selected work
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=200&section=header&text=Abdughafur%20Khujzoda&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<div align="center">
 
-<h3>💻 Aspiring Software Engineer</h3>
-
-<p>
-Passionate about software development, problem-solving, and building innovative digital solutions.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=abdughafur&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F215494004%3Fu%3D64efb373147c3b92b794196d8d527aac2fd7fa56%26v%3D4" alt="abdughafur hero visual" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00DFD8&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Code" />
 
 </div>
 
----
+## The idea behind the work
 
-## 👨‍💻 About Me
+> Software Engineering 💻🔧
 
-Hi, I'm **Abdughafur Khujzoda** — an aspiring Software Engineer passionate about technology, programming, and creating useful software solutions.
+- 📍 Based in **Tajikistan**
+- 🏢 Working at **Abdughafur Projects**
+- 🌐 [Website](#)
+- 👥 **50** followers · **7** following
 
-✨ My Goals:
-- 💻 Master software development
-- 🧠 Improve problem-solving skills
-- ⚙️ Build efficient and scalable applications
-- 🚀 Explore Artificial Intelligence and modern technologies
-- 📚 Learn something new every day
+*Small, useful work over vague claims.*
 
----
+## Case studies
 
-## 🛠️ Technologies & Tools
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Abdughafur/Quarter">Quarter</a></b></td><td>Created by Abdughafur Khujzoda<br/><sub>CSS · 26 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Abdughafur/macos-web">macos-web</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Svelte · 2 stars</sub></td></tr>
+</table>
 
-<div align="center">
+## Creative toolkit
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+## Make something memorable
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=abdughafur&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F215494004%3Fu%3D64efb373147c3b92b794196d8d527aac2fd7fa56%26v%3D4" alt="abdughafur social visual" />
+</p>
 
-## 🎯 Currently Focused On
+<a href="https://github.com/abdughafur">GitHub</a> · <a href="https://#">Website</a>
 
-- Software Engineering Fundamentals
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Clean Code & Problem Solving
-- Building Real-World Projects
+<p align="center"><sub>Abdughafur Khujzoda · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
----
+<!-- gitskins:architecture -->
+### How [Quarter](https://github.com/Abdughafur/Quarter) works
 
-## 📫 Contact Me
+Чоряк is a static, offline-capable quarterly grade calculator and percentage analytics web app (README).
 
-<div align="center">
-
-<a href="mailto:abdughafur.2010.khujzoda@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Learning today, building tomorrow.
-
-<img src="https://komarev.com/ghpvc/?username=Abdughafur&style=flat-square&color=blue" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=100&section=footer" />
+<a href="https://github.com/Abdughafur/Quarter"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/repo-diagram/image?owner=Abdughafur&amp;repo=Quarter&amp;theme=dark&amp;v=1794071904565">
+  <img alt="Architecture diagram of Abdughafur/Quarter" src="https://www.gitskins.com/api/repo-diagram/image?owner=Abdughafur&amp;repo=Quarter&amp;theme=light&amp;v=1794071904565">
+</picture></a>
